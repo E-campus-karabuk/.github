@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Student Automation System repository. This repository is part of a comprehensive suite that includes the web application, backend services, and mobile applications designed to streamline academic processes and enhance communication between students and lecturers. Developed by a dedicated team of four Computer Engineering students from Karabuk University, this system aims to provide a seamless academic experience through advanced automation and efficient communication tools.
+Welcome to the Student Automation System repository. This repository is part of a comprehensive suite that includes the web application, backend services, and mobile application designed to streamline academic processes and enhance communication between students and lecturers. Developed by a dedicated team of four Computer Engineering students from Karabuk University, this system aims to provide a seamless academic experience through advanced automation and efficient communication tools.
 
 ## Team Members
 
@@ -20,19 +20,15 @@ Welcome to the Student Automation System repository. This repository is part of 
    - Centralized hub for academic organization.
    - Monitor academic progress continuously.
 
-2. **Messaging Feature:**
-   - Direct communication with lecturers.
-   - Promotes an interactive learning environment.
-
-3. **Request Submission:**
+2. **Request Submission:**
    - Submit recommendation letters, grade objections, and internship applications.
    - Efficient communication processes.
 
-4. **Department Profile Exploration:**
+3. **Department Profile Exploration:**
    - Insights into lecturers, courses, and department history.
    - Informed decision-making for academic pursuits.
 
-5. **AI Chatbot:**
+4. **AI Chatbot:**
    - Quick access to information on university rules and guidelines.
 
 ### For Lecturers
@@ -56,11 +52,7 @@ Welcome to the Student Automation System repository. This repository is part of 
    - Access student information, attendance records, and grades.
    - Streamlined monitoring of student progress.
 
-6. **Chat Feature:**
-   - Personalized communication with students.
-   - Supportive learning environment.
-
-7. **Request Management:**
+6. **Request Management:**
    - Efficiently handle recommendation letters and internship opportunities.
 
 ## Repository Structure
