@@ -40,19 +40,11 @@ Welcome to the Student Automation System repository. This repository is part of 
    - Showcase expertise, background, qualifications, and research interests.
    - Transparency for students.
 
-3. **Course Analytics:**
-   - Insights into student performance.
-   - Identify areas for improvement and tailor teaching approaches.
-
-4. **Resource Sharing:**
+3. **Resource Sharing:**
    - Share lecture notes, presentation slides, and external resources.
    - Enhances student learning experiences.
 
-5. **Automated Features:**
-   - Access student information, attendance records, and grades.
-   - Streamlined monitoring of student progress.
-
-6. **Request Management:**
+4. **Request Management:**
    - Efficiently handle recommendation letters and internship opportunities.
 
 ## Repository Structure
